@@ -1,2 +1,14 @@
 # para ignorar las carpetas por ejm
 # "/css" "/img" "/js"
+
+# comandos generalmente usados en git
+
+# git add .  
+# agregamos al git
+
+# git status
+
+# git commit -m "mensaje de ejemplo a lo movido"
+
+# git push
+# para finalizar se pone git push
